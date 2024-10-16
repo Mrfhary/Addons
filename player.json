@@ -1341,7 +1341,7 @@
                                 "all_of": [
                                     {
                                         "test": "is_family",
-                                        "subject": "other",
+                                        "subject": "self",
                                         "value": "player"
                                     },
                                     {
@@ -1353,7 +1353,7 @@
                             },
                             "cause": "all",
                             "event": "fun:fractura",
-                            "target": "other"
+                            "target": "self"
                         }
                     }
                 ]
